@@ -21,4 +21,6 @@ This project explores relationships between decision on bike purchase and custom
 
 through an interactive dashboard and pivot tables for easier visualization
 
+#### Key Insights
+
 Bike Sales Excel Project: [Excel Project Dataset (working docs).xlsx](https://github.com/user-attachments/files/32141194/Excel.Project.Dataset.working.docs.xlsx)
