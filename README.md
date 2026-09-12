@@ -1,7 +1,7 @@
 # Portfolio
 Data Analytics Portfolio
 
-# [Project #3: Bake Sales Analysis in Excel]
+# [Project #3: Bike Sales Analysis in Excel]
 
 * Data was taken from kaggle: https://www.kaggle.com/code/sadiqshah/bike-store-sales-in-europe/data
 * Using Excel, the project analyzed and explored the data using Pivot Tables, and Charts
