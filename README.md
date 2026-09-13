@@ -22,8 +22,8 @@ This project explores relationships between decision on bike purchase and custom
 through an interactive dashboard and pivot tables for easier visualization
 
 #### Key Insights
-- Almost 60% (299/495) of bike sales are from Middle-Aged individuals, most ranging from ages 27 to 48. It was lowest for
-- Bike sales peaked at individuals who has commute distance of 0-1 miles, covering 42% of the sales. Moreover, sales are the lowest for individuals who has more than 10 miles of commute to work. 
+- Bike sales peaked at individuals who has commute distance of 0-1 miles, covering 42% of the sales. Moreover, sales are the lowest for individuals who has more than 10 miles of commute to work.
+-  Almost 60% (299/495) of bike sales are from Middle-Aged individuals, most ranging from ages 27 to 48.
 - The income of those who purchased bike are generally higher than those who didn't purchase one. 
 
 Bike Sales Excel Project: [Excel Project Dataset (working docs).xlsx](https://github.com/user-attachments/files/32141194/Excel.Project.Dataset.working.docs.xlsx)
